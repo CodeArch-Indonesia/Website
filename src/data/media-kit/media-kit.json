@@ -1,0 +1,17 @@
+[
+  {
+    "title": "CodeArch Products",
+    "description": "Find out more about our products.",
+    "file": "./codearch-rules.zip"
+  },
+  {
+    "title": "CodeArch Guidelines",
+    "description": "Download our guidelines in ZIP.",
+    "file": "./codearch-rules.zip"
+  },
+  {
+    "title": "CodeArch Assets",
+    "description": "Our logo and photos available for download.",
+    "file": "./codearch-rules.zip"
+  }
+]

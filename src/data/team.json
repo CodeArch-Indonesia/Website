@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Zahir Hadi Athallah",
+    "course": "Software Engineering Student",
+    "role": "Founder",
+    "img": "../images/team/jahir.jpg"
+  },
+  {
+    "name": "Ruby Hardianto",
+    "course": "Software Engineering Student",
+    "role": "Member",
+    "img": "../images/team/ruby.jpg"
+  },
+  {
+    "name": "Fikrah Fathoni Siregar",
+    "course": "Software Engineering Student",
+    "role": "Member",
+    "img": "../images/team/pikroh.jpg"
+  },
+  {
+    "name": "Thiflul M.M.M",
+    "course": "Software Engineering Student",
+    "role": "Member",
+    "img": "../images/team/alul.jpg"
+  },
+  {
+    "name": "Ibnu Hamid Aufa Fawwaz",
+    "course": "Software Engineering Student",
+    "role": "Member",
+    "img": "../images/team/aufa.jpg"
+  }
+]
