@@ -28,5 +28,11 @@
     "course": "Software Engineering Student",
     "role": "Member",
     "img": "../images/team/aufa.jpg"
+  },
+  {
+    "name": "Jose Andhika Putra",
+    "course": "Software Engineering Student",
+    "role": "Member",
+    "img": "../images/team/jose.jpg"
   }
 ]
